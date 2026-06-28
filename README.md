@@ -1,7 +1,9 @@
 # Derlix
 
 pump.fun : https://pump.fun/coin/3dXQFWk3KoJajp7rt9BQYNj6e7q1c2nV1zjzYiEEpump
+
 Lock Dev : https://app.streamflow.finance/contract/solana/mainnet/95uxWi7t7zFb458zaAmcRB9snamuWSit6e8eM9Jb4Gkn?new
+
 Dexscrenner : https://dexscreener.com/solana/adk6euubvcunbk3rcjvkcefw7sjqcaudxr3z7hwb1dzq
 
 > **Proof-of-Verified-Rollout. Real Intelligence. Verified On-Chain.**
