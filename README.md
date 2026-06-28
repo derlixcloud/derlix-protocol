@@ -1,5 +1,9 @@
 # Derlix
 
+pump.fun : https://pump.fun/coin/3dXQFWk3KoJajp7rt9BQYNj6e7q1c2nV1zjzYiEEpump
+Lock Dev : https://app.streamflow.finance/contract/solana/mainnet/95uxWi7t7zFb458zaAmcRB9snamuWSit6e8eM9Jb4Gkn?new
+Dexscrenner : https://dexscreener.com/solana/adk6euubvcunbk3rcjvkcefw7sjqcaudxr3z7hwb1dzq
+
 > **Proof-of-Verified-Rollout. Real Intelligence. Verified On-Chain.**
 
 Derlix is a decentralized AI infrastructure protocol built on Solana that generates, verifies, and stores Reinforcement Learning (RL) rollouts with cryptographic proof. Every learning trajectory is independently re-executed, verified, and anchored on-chain, creating a transparent and trustless foundation for frontier AI agents.
